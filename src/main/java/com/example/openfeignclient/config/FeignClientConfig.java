@@ -1,4 +1,4 @@
-package com.example.openfeignclient;
+package com.example.openfeignclient.config;
 
 import feign.okhttp.OkHttpClient;
 import org.springframework.context.annotation.Bean;

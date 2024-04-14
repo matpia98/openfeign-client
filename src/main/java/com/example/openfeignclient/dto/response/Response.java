@@ -1,4 +1,4 @@
-package com.example.openfeignclient;
+package com.example.openfeignclient.dto.response;
 
 public interface Response {
 }

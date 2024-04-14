@@ -1,4 +1,4 @@
-package com.example.openfeignclient;
+package com.example.openfeignclient.dto.response;
 
 public record UpdateSongResponseDto(String song, String artist) implements Response {
 }

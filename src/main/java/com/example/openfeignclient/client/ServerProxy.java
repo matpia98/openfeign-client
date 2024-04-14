@@ -1,4 +1,4 @@
-package com.example.openfeignclient;
+package com.example.openfeignclient.client;
 
 import com.example.openfeignclient.config.FeignClientConfig;
 import com.example.openfeignclient.dto.request.CreateSongRequestDto;

@@ -1,4 +1,4 @@
-package com.example.openfeignclient;
+package com.example.openfeignclient.model;
 
 public record Song(String name, String artist) {
     @Override

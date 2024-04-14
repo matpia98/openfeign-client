@@ -1,5 +1,7 @@
-package com.example.openfeignclient;
+package com.example.openfeignclient.utility;
 
+import com.example.openfeignclient.dto.response.Response;
+import com.example.openfeignclient.dto.response.*;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;

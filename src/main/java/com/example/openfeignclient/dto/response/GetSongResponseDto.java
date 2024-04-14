@@ -1,5 +1,7 @@
-package com.example.openfeignclient;
+package com.example.openfeignclient.dto.response;
 
-public record GetSongResponseDto(Song song) implements Response{
+import com.example.openfeignclient.model.Song;
+
+public record GetSongResponseDto(Song song) implements Response {
 
 }

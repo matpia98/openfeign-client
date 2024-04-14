@@ -1,6 +1,6 @@
-package com.example.openfeignclient;
+package com.example.openfeignclient.dto.response;
 
 import org.springframework.http.HttpStatus;
 
-public record DeleteSongResponseDto(String message, HttpStatus status) implements Response{
+public record DeleteSongResponseDto(String message, HttpStatus status) implements Response {
 }
